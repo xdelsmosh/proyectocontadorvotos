@@ -6,7 +6,7 @@ package Vista;
 import Controlador.*;
 /**
  *
- * @author yajai
+ * @author Esteban
  */
 public class login {
     public static void main(String[] args){
